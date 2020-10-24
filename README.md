@@ -1,2 +1,3 @@
-# unemployment-rate-prediction
-Unemployment rate prediction
+# Unemployment Rate Prediction
+
+Train and evaluate the models of unemployment rate data.
